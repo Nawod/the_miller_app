@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "626192130860",
+    "firebase_url": "https://the-miller-9080b.firebaseio.com",
+    "project_id": "the-miller-9080b",
+    "storage_bucket": "the-miller-9080b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626192130860:android:b369c5f53229d8c54d4289",
+        "android_client_info": {
+          "package_name": "com.example.the_miller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626192130860-i780hhepgs9drati8h015hbc98p3hai1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoZTx-QLR6YdQrYC9S1tUGLkv--ZoSUe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626192130860-i780hhepgs9drati8h015hbc98p3hai1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
